@@ -1,17 +1,6 @@
-# Bank Mangement System
-
-Creating a `README.md` file for your **Bank Management System** project is essential to provide an overview of the project, its features, installation instructions, and usage guidelines. Below is a template you can use for your `README.md` file:
-
----
-
 # Bank Management System
 
-![GitHub](https://img.shields.io/badge/Language-Python-blue)
-![GitHub](https://img.shields.io/badge/License-MIT-green)
-
 The **Bank Management System** is a console-based application designed to manage bank accounts, transactions, and customer details efficiently. It is built using Java and MYSQL for the database and provides a simple yet powerful interface for handling banking operations.
-
----
 
 ## Features
 
@@ -40,10 +29,6 @@ The **Bank Management System** is a console-based application designed to manage
 - **Reporting**:
   - Generate reports for accounts, transactions, and customers.
 
-
-
-
----
 
 ## Usage
 
